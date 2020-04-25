@@ -4,4 +4,8 @@ title {
     font-style: normal;
     text-align: justify;
 }
-h1 {}
+h1 {
+    color: currentColor;
+    font-family: fantasy;
+    text-align: end;
+}
